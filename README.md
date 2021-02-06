@@ -1,6 +1,7 @@
-# FlowMaster
+FlowMaster
 ## Screenshot
 ![Screenshot](https://github.com/jackrabbit72380/Flowmaster/blob/master/Screenshot.png)
+
 
 Contains the most up to date script for flowmodes in cemugui in numberd order.
 
