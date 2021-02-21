@@ -9,3 +9,8 @@ This text file combines all working flowmodes from the flowmaster project into o
 The cemugui sorce code is Privet pleae dont ask for it! but feal free to contribute to the Flowmaster Project!
 
 All working flowmodes will be fetured in the next relese of cemugui
+
+Xbox360 Game's
+mp4"
+avi
+mkv
